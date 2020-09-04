@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+
+target 'ItemTest2' do
+  use_frameworks!
+
+  # Pods for ItemTest2
+  
+  pod 'PMAlertController'
+
+end
